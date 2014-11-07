@@ -21,7 +21,8 @@ public class MarioGitTestProject implements EntryPoint {
 	
 	//Das hier ist ein Test, ob die Änderungen ins Remote-Repository übernommen werden.
 	//Zweiter Test
-	//Dritter Test.
+	//Dritter Test
+	//Vierter Test, Username korrekt?
 	
 	/**
 	 * The message displayed to the user when the server cannot be reached or
